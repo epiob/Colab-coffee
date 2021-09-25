@@ -11,7 +11,9 @@ require_once "controller/C_ninios.php";
 require_once "css/dependencias.php";
 $control = new CoNinio();
 $control->c();
-?>
+?><h2>ksdlfsdlfjsdl</h2>
+
+
 
 </head>
 <body>
