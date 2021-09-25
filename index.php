@@ -26,6 +26,8 @@ $control->c();
 		</div>
 	</div>
 
+  <h1>Comentario para git</h1>
+
 
   <!--************************************************* agregar datosmodal ***********************************************-->
   <div class="modal fade" id="addmodal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
